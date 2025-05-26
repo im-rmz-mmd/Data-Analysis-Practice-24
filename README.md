@@ -54,26 +54,15 @@ CALCULATE(
 
 ## 📊 Visuals in the Dashboard
 
-1. **KPI Cards**:
-   - Total Revenue  
-   - Closed Deals  
-   - Avg Deal Size  
-   - Top Product
+1. **KPI Cards**
 
-2. **Bar Chart**:
-   - Deal Count by Sales Agent
+2. **Bar Chart**
 
-3. **Funnel Chart**:
-   - Deals by Stage (to visualize drop-offs)
+3. **Funnel Chart**
 
-4. **Map**:
-   - Revenue by Office Location (from accounts)
+4. **Column Chart**
 
-5. **Column Chart**:
-   - Revenue by Product Series
-
-6. **Pie Chart**:
-   - Revenue by Sector
+5. **Pie Chart**
 
 ---
 
